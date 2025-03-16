@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://Hiraoka-Group.github.io/recsa-cli-docs/</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hiraoka-Group.github.io/recsa-cli-docs/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://Hiraoka-Group.github.io/recsa-cli-docs/ja/"/>
+    </url>
+    <url>
+        <loc>https://Hiraoka-Group.github.io/recsa-cli-docs/commands/</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hiraoka-Group.github.io/recsa-cli-docs/commands/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://Hiraoka-Group.github.io/recsa-cli-docs/ja/commands/"/>
+    </url>
+    <url>
+        <loc>https://Hiraoka-Group.github.io/recsa-cli-docs/installation/</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hiraoka-Group.github.io/recsa-cli-docs/installation/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://Hiraoka-Group.github.io/recsa-cli-docs/ja/installation/"/>
+    </url>
+    <url>
+        <loc>https://Hiraoka-Group.github.io/recsa-cli-docs/usage/</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hiraoka-Group.github.io/recsa-cli-docs/usage/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://Hiraoka-Group.github.io/recsa-cli-docs/ja/usage/"/>
+    </url>
+    <url>
+        <loc>https://Hiraoka-Group.github.io/recsa-cli-docs/ja/</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://Hiraoka-Group.github.io/recsa-cli-docs/ja/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hiraoka-Group.github.io/recsa-cli-docs/"/>
+    </url>
+    <url>
+        <loc>https://Hiraoka-Group.github.io/recsa-cli-docs/ja/commands/</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://Hiraoka-Group.github.io/recsa-cli-docs/ja/commands/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hiraoka-Group.github.io/recsa-cli-docs/commands/"/>
+    </url>
+    <url>
+        <loc>https://Hiraoka-Group.github.io/recsa-cli-docs/ja/installation/</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://Hiraoka-Group.github.io/recsa-cli-docs/ja/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hiraoka-Group.github.io/recsa-cli-docs/installation/"/>
+    </url>
+    <url>
+        <loc>https://Hiraoka-Group.github.io/recsa-cli-docs/ja/usage/</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://Hiraoka-Group.github.io/recsa-cli-docs/ja/usage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hiraoka-Group.github.io/recsa-cli-docs/usage/"/>
+    </url>
+</urlset>
