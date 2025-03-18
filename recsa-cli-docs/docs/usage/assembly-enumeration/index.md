@@ -13,10 +13,15 @@ recsa enumerate-assemblies [OPTIONS] INPUT OUTPUT
 2. `OUTPUT`: Relative path to the output file.
 
 ### Options
-- `--wip-dir`, `-w`: Directory to store intermediate files.
-- `--overwrite`, `-o`: Overwrite output file if it exists.
-- `--verbose`, `-v`: Print verbose output.
-- `--help`: Show this message and exit.
+Options with single hyphen (`-`) are aliases for the corresponding options with double hyphen (`--`), e.g., `-w` is an alias for `--wip-dir`. Either of them can be used.
+
+Command | Alias | Description | Example
+--- | --- | --- | ---
+`--wip-dir` | `-w` | Directory to store intermediate files. | `recsa enumerate-assemblies -w wip input.yaml output.yaml`, where `wip` is the directory to store intermediate files.
+`--start` | `-s` | Starting index for the reindexing of the assemblies. | `recsa enumerate-assemblies -s 10 input.yaml output.yaml`, where the starting index in the output file is 10.
+`--overwrite` | `-o` | Overwrite output file if it exists. | `recsa enumerate-assemblies -o input.yaml output.yaml`
+`--verbose` | `-v` | Print feedback messages to the console. | `recsa enumerate-assemblies -v input.yaml output.yaml`
+`--help` | | Show this message and exit. | `recsa enumerate-assemblies --help`
 
 ## Example
 
