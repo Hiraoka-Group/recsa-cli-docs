@@ -13,6 +13,8 @@
 --8<-- "assets.h/input.yaml"
 ```
 
+Download the example input file: [input.yaml](assets.h/input.yaml){:download}
+
 ## Fields
 
 ### `bonds` field

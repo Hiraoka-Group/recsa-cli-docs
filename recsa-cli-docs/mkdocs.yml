@@ -66,3 +66,4 @@ markdown_extensions:
   - md_in_html
   - pymdownx.blocks.caption
   - pymdownx.details
+  - attr_list

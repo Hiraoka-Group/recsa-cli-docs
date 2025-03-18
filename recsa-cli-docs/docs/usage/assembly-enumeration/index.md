@@ -1,4 +1,4 @@
-# Assembly Enumeration
+# How to use
 
 The `enumerate-assemblies` subcommand is used to enumerate assemblies.
 
@@ -51,4 +51,4 @@ Input and output files are as follows:
     ```
 
 !!! note
-    See [Input File](input-file.md) and [Output File](output-file.md) for more details.
+    See [Input File](input.md) and [Output File](output.md) for more details.
