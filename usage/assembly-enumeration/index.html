@@ -460,7 +460,7 @@
             
   
   <span class="md-ellipsis">
-    Assembly Enumeration
+    Assembly enumeration
     
   </span>
   
@@ -471,7 +471,7 @@
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3_2">
             <span class="md-nav__icon md-icon"></span>
-            Assembly Enumeration
+            Assembly enumeration
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -624,6 +624,28 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="wip-dir-option/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    --wip-dir Option
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -661,7 +683,7 @@
             
   
   <span class="md-ellipsis">
-    Assembly List Concatenation
+    Assembly list concatenation
     
   </span>
   
@@ -672,7 +694,7 @@
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3_3">
             <span class="md-nav__icon md-icon"></span>
-            Assembly List Concatenation
+            Assembly list concatenation
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -683,7 +705,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Assembly-List-Concatenation/" class="md-nav__link">
+      <a href="../assembly-list-concatenation/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -811,12 +833,49 @@
 <li><code>OUTPUT</code>: Relative path to the output file.</li>
 </ol>
 <h3 id="options">Options</h3>
-<ul>
-<li><code>--wip-dir</code>, <code>-w</code>: Directory to store intermediate files.</li>
-<li><code>--overwrite</code>, <code>-o</code>: Overwrite output file if it exists.</li>
-<li><code>--verbose</code>, <code>-v</code>: Print verbose output.</li>
-<li><code>--help</code>: Show this message and exit.</li>
-</ul>
+<p>Options with single hyphen (<code>-</code>) are aliases for the corresponding options with double hyphen (<code>--</code>), e.g., <code>-w</code> is an alias for <code>--wip-dir</code>. Either of them can be used.</p>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Alias</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--wip-dir</code></td>
+<td><code>-w</code></td>
+<td>Directory to store intermediate files.</td>
+<td><code>recsa enumerate-assemblies -w wip input.yaml output.yaml</code>, where <code>wip</code> is the directory to store intermediate files.</td>
+</tr>
+<tr>
+<td><code>--start</code></td>
+<td><code>-s</code></td>
+<td>Starting index for the reindexing of the assemblies.</td>
+<td><code>recsa enumerate-assemblies -s 10 input.yaml output.yaml</code>, where the starting index in the output file is 10.</td>
+</tr>
+<tr>
+<td><code>--overwrite</code></td>
+<td><code>-o</code></td>
+<td>Overwrite output file if it exists.</td>
+<td><code>recsa enumerate-assemblies -o input.yaml output.yaml</code></td>
+</tr>
+<tr>
+<td><code>--verbose</code></td>
+<td><code>-v</code></td>
+<td>Print feedback messages to the console.</td>
+<td><code>recsa enumerate-assemblies -v input.yaml output.yaml</code></td>
+</tr>
+<tr>
+<td><code>--help</code></td>
+<td></td>
+<td>Show this message and exit.</td>
+<td><code>recsa enumerate-assemblies --help</code></td>
+</tr>
+</tbody>
+</table>
 <h2 id="example">Example</h2>
 <p>Directory structure before running the command:
 <div class="language-text highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>/

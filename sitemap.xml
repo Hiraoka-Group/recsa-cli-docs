@@ -19,33 +19,39 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneusage/"/>
     </url>
     <url>
-        <loc>Noneusage/Assembly-Enumeration/</loc>
+        <loc>Noneusage/assembly-enumeration/</loc>
         <lastmod>2025-03-18</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/Assembly-Enumeration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/"/>
     </url>
     <url>
-        <loc>Noneusage/Assembly-Enumeration/about-example.h/</loc>
+        <loc>Noneusage/assembly-enumeration/about-example.h/</loc>
         <lastmod>2025-03-18</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/Assembly-Enumeration/about-example.h/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/about-example.h/"/>
     </url>
     <url>
-        <loc>Noneusage/Assembly-Enumeration/input/</loc>
+        <loc>Noneusage/assembly-enumeration/input/</loc>
         <lastmod>2025-03-18</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/Assembly-Enumeration/input/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/input/"/>
     </url>
     <url>
-        <loc>Noneusage/Assembly-Enumeration/output/</loc>
+        <loc>Noneusage/assembly-enumeration/output/</loc>
         <lastmod>2025-03-18</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/Assembly-Enumeration/output/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/output/"/>
     </url>
     <url>
-        <loc>Noneusage/Assembly-List-Concatenation/</loc>
+        <loc>Noneusage/assembly-enumeration/wip-dir-option/</loc>
         <lastmod>2025-03-18</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/Assembly-List-Concatenation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/wip-dir-option/"/>
+    </url>
+    <url>
+        <loc>Noneusage/assembly-list-concatenation/</loc>
+        <lastmod>2025-03-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-list-concatenation/"/>
     </url>
 </urlset>
