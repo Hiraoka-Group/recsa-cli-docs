@@ -1,5 +1,5 @@
 # Commands
 
 
-- [Assembly Enumeration](Assembly-Enumeration/index.md)
-- [Assembly Concatenation](Assembly-List-Concatenation/index.md)
+- [Assembly Enumeration](assembly-enumeration/index.md)
+- [Assembly Concatenation](assembly-list-concatenation/index.md)
