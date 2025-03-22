@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>None./</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/"/>
     </url>
     <url>
-        <loc>Noneinstallation/</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/installation/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneinstallation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/installation/"/>
     </url>
     <url>
-        <loc>Noneusage/</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/"/>
     </url>
     <url>
-        <loc>Noneusage/assembly-enumeration/</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/"/>
     </url>
     <url>
-        <loc>Noneusage/assembly-enumeration/about-example.h/</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/about-example.h/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/about-example.h/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/about-example.h/"/>
     </url>
     <url>
-        <loc>Noneusage/assembly-enumeration/input/</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/input/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/input/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/input/"/>
     </url>
     <url>
-        <loc>Noneusage/assembly-enumeration/output/</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/output/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/output/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/output/"/>
     </url>
     <url>
-        <loc>Noneusage/assembly-enumeration/wip-dir-option/</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/wip-dir-option/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/wip-dir-option/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-enumeration/wip-dir-option/"/>
     </url>
     <url>
-        <loc>Noneusage/assembly-list-concatenation/</loc>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-list-concatenation/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-list-concatenation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.3/usage/assembly-list-concatenation/"/>
     </url>
 </urlset>
