@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Noneinstallation/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneinstallation/"/>
+    </url>
+    <url>
+        <loc>Noneusage/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/"/>
+    </url>
+    <url>
+        <loc>Noneusage/assembly-enumeration/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/"/>
+    </url>
+    <url>
+        <loc>Noneusage/assembly-enumeration/about-example.h/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/about-example.h/"/>
+    </url>
+    <url>
+        <loc>Noneusage/assembly-enumeration/input/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/input/"/>
+    </url>
+    <url>
+        <loc>Noneusage/assembly-enumeration/output/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/output/"/>
+    </url>
+    <url>
+        <loc>Noneusage/assembly-enumeration/wip-dir-option/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/wip-dir-option/"/>
+    </url>
+    <url>
+        <loc>Noneusage/assembly-list-concatenation/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-list-concatenation/"/>
+    </url>
+</urlset>
