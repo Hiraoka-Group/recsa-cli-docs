@@ -19,12 +19,6 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.2/usage/"/>
     </url>
     <url>
-        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.2/usage/Assembly-List-Concatenation/</loc>
-        <lastmod>2025-03-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.2/usage/Assembly-List-Concatenation/"/>
-    </url>
-    <url>
         <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.2/usage/assembly-enumeration/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
@@ -53,5 +47,11 @@
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.2/usage/assembly-enumeration/wip-dir-option/"/>
+    </url>
+    <url>
+        <loc>https://hiraoka-group.github.io/recsa-cli-docs/v0.14.2/usage/assembly-list-concatenation/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hiraoka-group.github.io/recsa-cli-docs/v0.14.2/usage/assembly-list-concatenation/"/>
     </url>
 </urlset>
