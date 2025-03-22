@@ -19,12 +19,6 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneusage/"/>
     </url>
     <url>
-        <loc>Noneusage/Assembly-List-Concatenation/</loc>
-        <lastmod>2025-03-22</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/Assembly-List-Concatenation/"/>
-    </url>
-    <url>
         <loc>Noneusage/assembly-enumeration/</loc>
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
@@ -53,5 +47,11 @@
         <lastmod>2025-03-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-enumeration/wip-dir-option/"/>
+    </url>
+    <url>
+        <loc>Noneusage/assembly-list-concatenation/</loc>
+        <lastmod>2025-03-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneusage/assembly-list-concatenation/"/>
     </url>
 </urlset>
