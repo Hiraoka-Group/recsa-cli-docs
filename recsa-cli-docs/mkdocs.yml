@@ -1,4 +1,5 @@
 site_name: RECSA CLI Docs
+site_url: https://hiraoka-group.github.io/recsa-cli-docs/
 repo_url: https://github.com/Hiraoka-Group/recsa-cli-docs
 site_description: Documentation for RECSA CLI
 theme:
@@ -71,3 +72,5 @@ markdown_extensions:
 extra:
   version:
     provider: mike
+    default: stable
+    alias: true
